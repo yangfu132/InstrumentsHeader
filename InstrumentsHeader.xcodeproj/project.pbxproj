@@ -69,9 +69,9 @@
 		54C930F21E66D77900616134 /* DTInstrumentsX.framework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DTInstrumentsX.framework.h; sourceTree = "<group>"; };
 		54C930F31E66D77900616134 /* InstrumentsAnalysisCore.framework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsAnalysisCore.framework.h; sourceTree = "<group>"; };
 		54C930F41E66D77900616134 /* InstrumentsDTrace.framework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsDTrace.framework.h; sourceTree = "<group>"; };
-		54C930F51E66D77900616134 /* InstrumentsKit.framework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsKit.framework.h; sourceTree = "<group>"; };
-		54C930F61E66D77900616134 /* InstrumentsKit.framework1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsKit.framework1.h; sourceTree = "<group>"; };
-		54C930F71E66D77900616134 /* InstrumentsKit.framework2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsKit.framework2.h; sourceTree = "<group>"; };
+		54C930F51E66D77900616134 /* InstrumentsKit.framework.part1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsKit.framework.part1.h; sourceTree = "<group>"; };
+		54C930F61E66D77900616134 /* InstrumentsKit.framework.part2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsKit.framework.part2.h; sourceTree = "<group>"; };
+		54C930F71E66D77900616134 /* InstrumentsKit.framework.part3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsKit.framework.part3.h; sourceTree = "<group>"; };
 		54C930F81E66D77900616134 /* InstrumentsKit.Protocal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsKit.Protocal.h; sourceTree = "<group>"; };
 		54C930F91E66D77900616134 /* InstrumentsPlugIn.framework.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = InstrumentsPlugIn.framework.h; sourceTree = "<group>"; };
 		54C930FA1E66D77900616134 /* PFTTraceDocument.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PFTTraceDocument.h; sourceTree = "<group>"; };
@@ -240,9 +240,9 @@
 				54C930F21E66D77900616134 /* DTInstrumentsX.framework.h */,
 				54C930F31E66D77900616134 /* InstrumentsAnalysisCore.framework.h */,
 				54C930F41E66D77900616134 /* InstrumentsDTrace.framework.h */,
-				54C930F51E66D77900616134 /* InstrumentsKit.framework.h */,
-				54C930F61E66D77900616134 /* InstrumentsKit.framework1.h */,
-				54C930F71E66D77900616134 /* InstrumentsKit.framework2.h */,
+				54C930F51E66D77900616134 /* InstrumentsKit.framework.part1.h */,
+				54C930F61E66D77900616134 /* InstrumentsKit.framework.part2.h */,
+				54C930F71E66D77900616134 /* InstrumentsKit.framework.part3.h */,
 				54C930F81E66D77900616134 /* InstrumentsKit.Protocal.h */,
 				54C930F91E66D77900616134 /* InstrumentsPlugIn.framework.h */,
 				54C930FA1E66D77900616134 /* PFTTraceDocument.h */,
@@ -662,6 +662,7 @@
 				54C930D81E66D71600616134 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		54C930D91E66D71600616134 /* Build configuration list for PBXNativeTarget "InstrumentsHeaderTests" */ = {
 			isa = XCConfigurationList;
@@ -670,6 +671,7 @@
 				54C930DB1E66D71600616134 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		54C930DC1E66D71600616134 /* Build configuration list for PBXNativeTarget "InstrumentsHeaderUITests" */ = {
 			isa = XCConfigurationList;
@@ -678,6 +680,7 @@
 				54C930DE1E66D71600616134 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
